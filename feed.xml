@@ -5,19 +5,19 @@
     <link href="https://neuronas.ml" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
-        <name>Marcos Moreno</name>
+        <name>Admin</name>
     </author>
     <id>https://neuronas.ml</id>
 
     <entry>
         <title>La neurona</title>
         <author>
-            <name>Marcos Moreno</name>
+            <name>Admin</name>
         </author>
         <link href="https://neuronas.ml/documentacion.html"/>
         <id>https://neuronas.ml/documentacion.html</id>
 
-        <updated>2020-07-12T02:22:43+01:00</updated>
+        <updated>2020-07-12T11:22:41+01:00</updated>
             <summary>
                 <![CDATA[
                     Referencias Friedman, Avner &amp; Borisyuk, Alla &amp; Ermentrout, Bard &amp; Terman, David. (2005). Introduction to Neurons. 10.1007/978-3-540-31544-5_1. [2] Friedman, Avner &amp; Borisyuk, Alla &amp; Ermentrout, Bard &amp; Terman, David. (2005). Introduction to Neurons. 10.1007/978-3-540-31544-5_1. 
@@ -35,12 +35,12 @@
     <entry>
         <title>Neuronas y Machine Learning</title>
         <author>
-            <name>Marcos Moreno</name>
+            <name>Admin</name>
         </author>
         <link href="https://neuronas.ml/neuronas-y-machine-learning.html"/>
         <id>https://neuronas.ml/neuronas-y-machine-learning.html</id>
 
-        <updated>2020-07-12T02:22:43+01:00</updated>
+        <updated>2020-07-12T11:22:41+01:00</updated>
             <summary>
                 <![CDATA[
                     Este sitio está dedicado al estudio de las neuronas y el Machine Learning. Está concebido como un lugar para encontrar información y pequeñas simulaciones en el marco de las redes neuronales artificiales.

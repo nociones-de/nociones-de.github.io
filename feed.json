@@ -6,7 +6,7 @@
     "feed_url": "https://neuronas.ml/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Marcos Moreno"
+        "name": "Admin"
     },
     "items": [
         {
@@ -16,12 +16,12 @@
             "summary": "Referencias Friedman, Avner &amp; Borisyuk, Alla &amp; Ermentrout, Bard &amp; Terman, David. (2005). Introduction to Neurons. 10.1007/978-3-540-31544-5_1. [2] Friedman, Avner &amp; Borisyuk, Alla &amp; Ermentrout, Bard &amp; Terman, David. (2005). Introduction to Neurons. 10.1007/978-3-540-31544-5_1. ",
             "content_html": "<p>Referencias</p>\n<p>Friedman, Avner &amp; Borisyuk, Alla &amp; Ermentrout, Bard &amp; Terman, David. (2005). Introduction to Neurons. 10.1007/978-3-540-31544-5_1. </p>\n<p> </p>\n<p><a href=\"https://www.researchgate.net/publication/6837246_Inside_the_brain_of_a_neuron\" target=\"_blank\" rel=\"noopener noreferrer\">[2] Friedman, Avner &amp; Borisyuk, Alla &amp; Ermentrout, Bard &amp; Terman, David. (2005). Introduction to Neurons. 10.1007/978-3-540-31544-5_1. </a></p>",
             "author": {
-                "name": "Marcos Moreno"
+                "name": "Admin"
             },
             "tags": [
             ],
-            "date_published": "2020-07-12T02:22:43+01:00",
-            "date_modified": "2020-07-12T02:22:43+01:00"
+            "date_published": "2020-07-12T11:22:41+01:00",
+            "date_modified": "2020-07-12T11:22:41+01:00"
         },
         {
             "id": "https://neuronas.ml/neuronas-y-machine-learning.html",
@@ -30,12 +30,12 @@
             "summary": "Este sitio está dedicado al estudio de las neuronas y el Machine Learning. Está concebido como un lugar para encontrar información y pequeñas simulaciones en el marco de las redes neuronales artificiales.",
             "content_html": "<p>Este sitio está dedicado al estudio de las neuronas y el Machine Learning. Está concebido como un lugar para encontrar información y pequeñas simulaciones en el marco de las redes neuronales artificiales.</p>",
             "author": {
-                "name": "Marcos Moreno"
+                "name": "Admin"
             },
             "tags": [
             ],
-            "date_published": "2020-07-12T02:22:43+01:00",
-            "date_modified": "2020-07-12T02:22:43+01:00"
+            "date_published": "2020-07-12T11:22:41+01:00",
+            "date_modified": "2020-07-12T11:22:41+01:00"
         }
     ]
 }
