@@ -10,6 +10,29 @@
     <id>https://neuronas.ml</id>
 
     <entry>
+        <title>La neurona</title>
+        <author>
+            <name>Marcos Moreno</name>
+        </author>
+        <link href="https://neuronas.ml/documentacion.html"/>
+        <id>https://neuronas.ml/documentacion.html</id>
+
+        <updated>2020-07-12T02:17:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Referencias https://www.researchgate.net/publication/6837246_Inside_the_brain_of_a_neuron [2] Friedman, Avner &amp; Borisyuk, Alla &amp; Ermentrout, Bard &amp; Terman, David. (2005). Introduction to Neurons. 10.1007/978-3-540-31544-5_1. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Referencias</p>
+<p><a href="https://www.researchgate.net/publication/6837246_Inside_the_brain_of_a_neuron">https://www.researchgate.net/publication/6837246_Inside_the_brain_of_a_neuron</a></p>
+<p> </p>
+<p><a href="https://www.researchgate.net/publication/6837246_Inside_the_brain_of_a_neuron" target="_blank" rel="noopener noreferrer">[2] Friedman, Avner &amp; Borisyuk, Alla &amp; Ermentrout, Bard &amp; Terman, David. (2005). Introduction to Neurons. 10.1007/978-3-540-31544-5_1. </a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Neuronas y Machine Learning</title>
         <author>
             <name>Marcos Moreno</name>
@@ -17,7 +40,7 @@
         <link href="https://neuronas.ml/neuronas-y-machine-learning.html"/>
         <id>https://neuronas.ml/neuronas-y-machine-learning.html</id>
 
-        <updated>2020-07-12T02:02:14+01:00</updated>
+        <updated>2020-07-12T02:17:49+01:00</updated>
             <summary>
                 <![CDATA[
                     Este sitio está dedicado al estudio de las neuronas y el Machine Learning. Está concebido como un lugar para encontrar información y pequeñas simulaciones en el marco de las redes neuronales artificiales.
