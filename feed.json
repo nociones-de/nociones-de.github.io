@@ -9,5 +9,19 @@
         "name": "Marcos Moreno"
     },
     "items": [
+        {
+            "id": "https://neuronas.ml/neuronas-y-machine-learning.html",
+            "url": "https://neuronas.ml/neuronas-y-machine-learning.html",
+            "title": "Neuronas y Machine Learning",
+            "summary": "Este sitio está dedicado al estudio de las neuronas y el Machine Learning. Está concebido como un lugar para encontrar información y pequeñas simulaciones en el marco de las redes neuronales artificiales.",
+            "content_html": "<p>Este sitio está dedicado al estudio de las neuronas y el Machine Learning. Está concebido como un lugar para encontrar información y pequeñas simulaciones en el marco de las redes neuronales artificiales.</p>",
+            "author": {
+                "name": "Marcos Moreno"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-12T01:55:30+01:00",
+            "date_modified": "2020-07-12T01:55:30+01:00"
+        }
     ]
 }
