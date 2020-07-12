@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "neuronas.ml",
+    "description": "",
+    "home_page_url": "https://neuronas.ml",
+    "feed_url": "https://neuronas.ml/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Marcos Moreno"
+    },
+    "items": [
+    ]
+}
